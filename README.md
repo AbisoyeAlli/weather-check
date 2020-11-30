@@ -1,4 +1,4 @@
-# app-weather
+# weather-check
 
 ## Project setup
 1. Clone repo.
