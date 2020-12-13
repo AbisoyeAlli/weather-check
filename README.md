@@ -1,24 +1,10 @@
-# app-weather
+# weather-check
 
 ## Project setup
-```
-npm install
-```
+1. Clone repo.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+2. Run the `npm install` command on your terminal to install dependencies.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+3. Run the `npm run serve` to run the local server on your machine.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Happy Hacking!!
